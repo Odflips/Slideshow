@@ -12,22 +12,8 @@ background-image: linear-gradient(43deg, #5df3a5 24%, #7f1bfb 74%);
 
 }
 
-.tit{
-    text-align: center;
-    top: 100px;
-    position: relative;
-    font-family: 'Permanent Marker', cursive;
-    font-size: 65px;
-
-    /* background - gradient */
-    background: rgb(34,195,194);
-    background: linear-gradient(250deg, rgba(34,195,194,1) 0%, rgba(223,201,44,1) 52%, rgba(87,253,45,1) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent ;
-    
 
 
-}
 
 .conteudo{
     height: 520px;
@@ -115,10 +101,7 @@ input{
         width: 200px;
     }
 
-    .tit{
-        top: 50px;
-        font-size: 45px;
-    }
+   
 
     
     
